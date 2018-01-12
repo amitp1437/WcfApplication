@@ -1,0 +1,6 @@
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeWcfService\bin\Debug\EmployeeWcfService.dll.config
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeWcfService\bin\Debug\EmployeeWcfService.dll
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeWcfService\bin\Debug\EmployeeWcfService.pdb
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeWcfService\obj\Debug\EmployeeWcfService.csproj.CoreCompileInputs.cache
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeWcfService\obj\Debug\EmployeeWcfService.dll
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeWcfService\obj\Debug\EmployeeWcfService.pdb

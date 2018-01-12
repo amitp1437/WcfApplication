@@ -1,0 +1,10 @@
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.pdb
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll.config
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
